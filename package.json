@@ -1,6 +1,6 @@
 {
   "name": "create-preact-pwa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"yarn create\"-friendly version of preact-cli",
   "main": "index.js",
   "repository": "git@github.com:ericclemmons/create-preact-pwa.git",
