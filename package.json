@@ -13,6 +13,6 @@
     "np": "^2.15.0"
   },
   "dependencies": {
-    "preact-cli": "*"
+    "preact-cli": "^1.0.1"
   }
 }

@@ -5054,7 +5054,7 @@ postcss@^6.0.1:
     source-map "^0.5.6"
     supports-color "^3.2.3"
 
-preact-cli@*:
+preact-cli@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/preact-cli/-/preact-cli-1.0.1.tgz#088eb1dd88102e2ff5f8d967ec267138957137d1"
   dependencies:
