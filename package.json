@@ -6,6 +6,9 @@
   "repository": "git@github.com:ericclemmons/create-preact-pwa.git",
   "author": "Eric Clemmons <eric@smarterspam.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "np"
+  },
   "devDependencies": {
     "np": "^2.15.0"
   },
